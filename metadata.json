@@ -1,0 +1,6 @@
+{
+  "name": "J's Resto",
+  "description": "A modern, minimalist, and premium Point of Sale (POS) system for J's Resto Indonesian Restautrant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
